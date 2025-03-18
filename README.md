@@ -11,8 +11,8 @@ Build a logistic regression model to assign a lead score between 0 and 100 to ea
 Address additional problems presented by the company, which your model should be able to handle. These problems are provided in a separate document and should be filled based on the logistic regression model developed in the first step. Ensure that you include this information in your final presentation.
 
 ### Results Expected
--A well-commented Jupyter notebook with the logistic regression model, conversion predictions, and evaluation metrics.
--A Word document filled with solutions to all the additional problems provided.
--A presentation summarizing the overall approach of the analysis, explaining the results in business terms, including visualizations, and summarizing the most important findings.
--A brief summary report of 500 words explaining how you proceeded with the assignment and the learnings you gathered.
--Please refer to the respective documents and presentation for a comprehensive understanding of the case study and its outcomes.
+- A well-commented Jupyter notebook with the logistic regression model, conversion predictions, and evaluation metrics.
+- A Word document filled with solutions to all the additional problems provided.
+- A presentation summarizing the overall approach of the analysis, explaining the results in business terms, including visualizations, and summarizing the most important findings.
+- A brief summary report of 500 words explaining how you proceeded with the assignment and the learnings you gathered.
+- Please refer to the respective documents and presentation for a comprehensive understanding of the case study and its outcomes.
